@@ -6,7 +6,9 @@ Individual assignment for course Autonomous Flight of Micro Air Vehicles 2020/20
 Requirements: OpenCV, PyTorch, Jupyter Notebook
 
 ## Run
-Download saved models: https://drive.google.com/drive/folders/1_L6Vzn01lf_hUjFGckGz6qNewVFDrCHq?usp=sharing. Then put them in the folder `learned_weights/` in the repo root directory. The codes is with the same structure of the report. For only checking the proposed method(report section 3), just run `gate_detection.ipynb`. 
+Put the dataset `WashingtonOBRace` under the repo. Download saved models: https://drive.google.com/drive/folders/1_L6Vzn01lf_hUjFGckGz6qNewVFDrCHq?usp=sharing. Then put them in the folder `learned_weights/` in the repo root directory. 
+
+The codes is with the same structure of the report. For only checking the proposed method(report section 3), just run `gate_detection.ipynb`. 
 
 - Report section 2.1
 
